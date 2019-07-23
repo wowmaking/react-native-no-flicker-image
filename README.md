@@ -2,7 +2,7 @@
 
 React native `Image` component without flicker
  on `android` devices when `source` is changed. 
- Show previous image until new one is loaded. Support all [Image](https://facebook.github.io/react-native/docs/image) props. It works the same as `Image` on `ios`.
+ Show previous image until new one is loaded. Support all [Image](https://facebook.github.io/react-native/docs/image) props. On `ios` `NoFlickerImage` just renders `Image`.
 
 ## Install
 ```
